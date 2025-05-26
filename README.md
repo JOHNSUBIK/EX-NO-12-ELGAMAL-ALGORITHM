@@ -32,9 +32,6 @@ To Implement ELGAMAL ALGORITHM.
 
 ## Program:
 ```
-NAME: Amruthavarshini Gopal
-REG_NO: 212223230013
-
 #include <stdio.h>
 #include <math.h>
 
